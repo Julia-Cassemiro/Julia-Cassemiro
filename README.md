@@ -5,7 +5,7 @@ Hey! I'm 18 years old, I'm a Christian and I love everything that involves techn
 I started my studies alone at home with my father's computer, and now I'm a student at College 42, down there I left a paragraph about this incredible and futuristic school!
 
 - 👽 I’m currently study at 42 ...
-- ✨ I'm studying IA and Data Science at Let's Code
+- ✨ I'm studying AI and Data Science at Let's Code
 - 🤔 Any questions? You can call me! ...
 - 📫 my email: jg-cassemiro@hotmail.com
 

@@ -1,13 +1,16 @@
 # Hello World! Call me Ju :D
 
 Hey! I'm 18 years old, I'm a Christian and I love everything that involves technology, especially Artificial Intelligence ❤
+
 I started my studies alone at home with my father's computer, and now I'm a student at College 42, down there I left a paragraph about this incredible and futuristic school!
 
 - 👽 I’m currently study at 42 ...
 - ✨ I'm studying IA and Data Science at Let's Code
 - 🤔 Any questions? You can call me! ...
 - 📫 my email: jg-cassemiro@hotmail.com
+
       my instagram: jcassemiro_
+      
       my linkedin: https://www.linkedin.com/in/juliacassemiro/
 - ⚡ Fun fact: I love all Quentin Tarantino movies
 

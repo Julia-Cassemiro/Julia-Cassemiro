@@ -13,7 +13,7 @@ I started my studies alone at home with my father's computer, and now I'm a stud
 - ⚡ Fun fact: I love all Quentin Tarantino movies
 
 
-|[![Julia Cassemiro Github stats](https://github-readme-stats.vercel.app/api?username=MarcusVinix&count_private=true&show_icons=true&hide=contribs,issues&hide_border=true)](https://github.com/MarcusVinix?tab=repositories) | [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcusVinix&layout=compact&hide_border=true)](https://github.com/MarcusVinix?tab=repositories) |
+|[![Julia-Cassemiro Github stats](https://github-readme-stats.vercel.app/api?username=Julia-Cassemiro&count_private=true&show_icons=true&hide=contribs,issues&hide_border=true)](https://github.com/Julia-Cassemiro?tab=repositories) | [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Julia-Cassemiro&layout=compact&hide_border=true)](https://github.com/Julia-Cassemiro?tab=repositories) |
 |---|---|
 
 

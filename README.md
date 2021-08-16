@@ -14,7 +14,7 @@ I started my studies alone at home with my father's computer, and now I'm a stud
 
 
 |[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Julia-Cassemiro&layout=compact&hide_border=true)](https://github.com/Julia-Cassemiro?tab=repositories) |
-|---|---|
+|---|
 
 
 ## 42  BORN TO CODE ?

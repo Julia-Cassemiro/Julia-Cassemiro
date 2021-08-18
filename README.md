@@ -6,8 +6,8 @@ I started my studies alone at home with my father's computer, and now I'm a stud
 
 - 👽 I’m currently study at 42
 - ✨ I'm Dev Back-End and some other things ...
-- 🤔 Any questions? You can call me! ...
 - ⚡ Fun fact: I love all Quentin Tarantino movies
+- 🤔 `Any questions? You can call me!´
 - 📫 my email: jg-cassemiro@hotmail.com
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/juliacassemiro//) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/jcassemiro_/)

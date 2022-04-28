@@ -15,6 +15,7 @@ I started my studies alone at home with my father's computer, and now I'm a stud
 
 <h3 align="center">Languages and Tools</h3>
 <p align="center">
+  
   |[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Julia-Cassemiro&layout=compact&hide_border=true)](https://github.com/Julia-Cassemiro?tab=repositories) |
 |---|
  

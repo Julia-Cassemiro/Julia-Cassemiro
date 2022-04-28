@@ -20,3 +20,16 @@ I started my studies alone at home with my father's computer, and now I'm a stud
 
 42 is the first computer training **completely free, open to all without qualification requirements and accessible from 18 years old**. Its pedagogy is based on **peer-to-peer learning**: a participatory operation, without lessons, without a teacher, which allows students to unleash all their creativity through project-based learning. 42 was founded on the initiative of Xavier Niel in 2013 when the digital industry in France suffered from a serious shortage of IT developers. To train the best talents of tomorrow in large numbers, the establishment provides the best infrastructure in innovative and modern locations in Paris and Fremont (Silicon Valley). And recently, 42 have launched internationally with 29 campuses for 2020 including 4 in France, Belgium, Morocco, Finland, Netherlands, Russia, Brazil, Armenia, Japan, Spain, Canada, Italy , Portugal, Thailand, Germany, Jordan, Malaysia, Australia, Abu Dhabi.
 **42, is our answer to what the school of tomorrow should be.**
+
+<h3 align="center">Languages and Tools</h3>
+<p align="center">
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html" width="40" height="40"/>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css" width="40" height="40"/>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
+ 
+</p>

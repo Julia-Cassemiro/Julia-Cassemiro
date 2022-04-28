@@ -12,14 +12,10 @@ I started my studies alone at home with my father's computer, and now I'm a stud
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/juliacassemiro//) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/jcassemiro_/)
 
-
-<h3 align="center">Languages and Tools</h3>
-<p align="center">
   
   |[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Julia-Cassemiro&layout=compact&hide_border=true)](https://github.com/Julia-Cassemiro?tab=repositories) |
 |---|
- 
-</p>
+
 
 ### `42 BORN TO CODE ?`
 

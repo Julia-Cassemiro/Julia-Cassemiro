@@ -1,10 +1,11 @@
 # Hello World! Call me Ju :D
 
-Hey! I'm 19 years old, I'm a Christian and I love everything that involves technology, especially Artificial Intelligence ❤
+Hey! I'm 19 years old, I'm a Christian and I love everything that involves technology, especially development ❤
 
 I started my studies alone at home with my father's computer, and now I'm a student at College 42, down there I left a paragraph about this incredible and futuristic school!
 
 - 👽 I’m currently study at 42
+- 👩‍💻 I’m currently work at Vaxxinova
 - ✨ I'm Dev Back-End and some other things ...
 - ⚡ Fun fact: I love all Quentin Tarantino movies
 ### 🤔 Any questions? You can call me!
